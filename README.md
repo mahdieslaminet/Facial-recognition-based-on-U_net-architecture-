@@ -1,3 +1,8 @@
+articel-translate-video-data
+https://drive.google.com/drive/folders/1B_hJl-YF2hgcL3CyNqxhSHb75YJjFVmN
+
+
+
 # Face Parsing using U-Net Architecture
 
 ## 📌 Project Overview
